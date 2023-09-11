@@ -6,3 +6,6 @@ thiscatdoesnotexist.comとかthesecatsdonotexist.comのように手元で猫を�
 - What_is_GAN.ipynb<br>
 - What_is_VAE.ipynb<br>
 - Generate_Cat.ipynb<br>
+
+このリポジトリでGANを学習してくれる人向けにPytorch_command.ipynbを用意しました。<br>
+Pytorchの扱いに慣れてない人はまずはそちらをご覧ください。<br>
