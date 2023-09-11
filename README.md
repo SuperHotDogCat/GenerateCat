@@ -1,0 +1,2 @@
+# GenerateCat
+thiscatdoesnotexist.comとかthesecatsdonotexist.comのように手元で猫を生成できるようにしたいので作る。不定期更新なので気が向いたら更新するし、気が向かなかったら更新しません。
